@@ -17,9 +17,10 @@ And install the tools used if you don't have them already. 👇🏻 <br>
 ![Env-Var](https://img.shields.io/badge/-EnvVar-232323?style=flat&labelColor=61DAFB&logo=&logoColor=000000)
 ![JsonWebToken](https://img.shields.io/badge/-JsonWebToken-232323?style=flat&labelColor=000000&logo=jsonwebtokens&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff) <br>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff) <br> <br>
 
 After that, clone the front-end repository from <a href="https://github.com/kaiqueromero/Projeto-app-Onebitflix_Frontend/tree/main" target="blank">here</a>. <br>
+Run the command "cd onebitflix_frontend-main" to access the project folder. <br>
 And install the tools used if you don't have them already. 👇🏻 <br>
 
 ### Front End
@@ -36,17 +37,17 @@ And install the tools used if you don't have them already. 👇🏻 <br>
 
 #### first, run the development backend server:
 
-npm run dev
+"npm run dev"
 or
-yarn dev; <br>
+"yarn dev" <br>
 
 Open http://localhost:port with your browser to see the result.
 
 #### after that, run the front server:
 
-npm run dev
+"npm run dev"
 or
-yarn dev; <br>
+"yarn dev" <br>
 
 Now, run the Frontend server and Open http://localhost:port with your browser to see the result.
 

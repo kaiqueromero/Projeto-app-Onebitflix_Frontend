@@ -34,13 +34,17 @@ And install the tools used if you don't have them already. 👇🏻 <br>
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
 
 
-
-
-
-##### run the development backend server:
+##### first, run the development backend server:
 
 npm run dev
 or
 yarn dev; <br>
 Open http://localhost:port with your browser to see the result.
+
+##### after that, run the front server:
+
+npm run dev
+or
+yarn dev; <br>
 Now, run the Frontend server and Open http://localhost:port with your browser to see the result.
+
